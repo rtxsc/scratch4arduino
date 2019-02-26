@@ -8,6 +8,6 @@ a graphical-based programming for Arduino | Scratch4Arduino
 
 #### How to use?
 
-- [x] Open S4AFirmware using normal Arduino IDE and upload the code to your Arduino.
+- [x] Open [`S4AFirmware16.ino`](https://github.com/rtxsc/scratch4arduino/blob/master/S4AFirmware16.ino) using normal Arduino IDE and upload the code to your Arduino.
 - [x] Run S4A application
 - [x] Have fun !
